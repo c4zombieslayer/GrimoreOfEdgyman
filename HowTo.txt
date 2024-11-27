@@ -1,0 +1,16 @@
+How to upload to GitHub (Upload updates)
+
+open file location with terminal
+git add .
+git commit -am "UPLOAD MSG"
+git push
+
+
+
+
+
+
+How to download from GitHub (Get updates)
+
+open file location with terminal
+git pull
