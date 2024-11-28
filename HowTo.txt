@@ -1,16 +1,35 @@
-How to upload to GitHub (Upload updates)
-
-open file location with terminal
-git add .
-git commit -am "UPLOAD MSG"
-git push
+SAVING AND LOADING INSTRUCTIONS -------------------------
 
 
 
+To get latest updates on all assets, run "load.exe"
+
+To upload all changes made, run "save.exe"
 
 
 
-How to download from GitHub (Get updates)
+FILES AND ORGANIZATION ----------------------------------
 
-open file location with terminal
-git pull
+
+
+The Folder "!!FG" should store characters and non-background elements.
+
+The Folder "!PreppedBG" stores background images.
+- backgrounds must be 1920 x 1080 resolution.
+
+
+
+HOW TO MAKE GIFS ----------------------------------------
+
+
+
+The bottom layer must be named "//Background"
+
+The 2nd from bottom layer must be named "Frame 1 //GIF; 1ms"
+- replace 1ms with any desired animation speed
+
+The 3rd from bottom layer must be "Frame 2"
+
+Any other frame must be named "Frame X"; X being the frame number
+
+
